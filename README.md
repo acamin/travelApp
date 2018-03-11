@@ -20,5 +20,12 @@ git diff
 git branch
 -to see what branches are on PC and branch you are on will have asterisk
 
+git commit -am "Added instructions for git"
+
+git push origin BRANCH_NAME
+-upload to cloud
+
+git checkout BRANCH_NAME
+-to switch branches
 
 

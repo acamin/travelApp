@@ -33,3 +33,6 @@ Hey muneeb is the best
 asfiyan likes soccer
 
 
+git checkout -b tutorial_part1
+-switch to a new branch (create new)
+
